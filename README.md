@@ -46,7 +46,7 @@ Publish the website in the given URL.
     width: auto;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(	);
+    background-image: url(https://i.stack.imgur.com/NEuip.jpg");
     box-shadow: inset 0 0 5px #ee1212; 
     backdrop-filter: blur(15px);
     border-radius: 5px;
